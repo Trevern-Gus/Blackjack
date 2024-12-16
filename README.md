@@ -14,7 +14,7 @@ The rules are standard blackjack rules and follow the same objectives:
   - if player and dealer have the same score it ends in a tie
 
 
-Fututre updates:
+Future updates:
   - allow multiple rounds and prompt player to end after each round
   - give players an startign capital and implement betting
   - personal bests
